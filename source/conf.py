@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'rst'
-copyright = '2018, 张振娜'
-author = '张振娜'
+copyright = u'2018, 张振娜'
+author = u'张振娜'
 
 # The short X.Y version
 version = ''
