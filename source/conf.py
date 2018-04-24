@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'y'
-copyright = '2018, y'
-author = 'y'
+project = 'rst'
+copyright = '2018, 张振娜'
+author = '张振娜'
 
 # The short X.Y version
 version = ''
